@@ -1,5 +1,7 @@
 # docker-httpie
 
+[![](https://badge.imagelayers.io/bwits/docker-httpie:latest.svg)](https://imagelayers.io/?images=bwits/docker-httpie:latest 'Get your own badge on imagelayers.io')
+
 ## Usage
 
 ```bash
