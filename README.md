@@ -3,7 +3,7 @@
 ## Usage
 
 ```bash
-$ alias http='docker run -ti --rm bwits/httpie'
+$ alias http='docker run -ti --rm bwits/docker-httpie'
 ```
 
 This will create a temporary alias. In order to make it persist reboots,
