@@ -1,6 +1,6 @@
 # docker-httpie
 
-[![](https://badge.imagelayers.io/bwits/docker-httpie:latest.svg)](https://imagelayers.io/?images=bwits/docker-httpie:latest 'Get your own badge on imagelayers.io')
+[![DockerHub Badge](http://dockeri.co/image/bwits/docker-httpie)](https://hub.docker.com/r/bwits/docker-httpie/)
 
 ## Usage
 
